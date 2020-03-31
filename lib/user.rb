@@ -1,3 +1,3 @@
-class user
+class User
   attr_accessor :name :user
 end
